@@ -1,0 +1,15 @@
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\bin\Debug\MatrimonialAgency.exe.config
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.csprojResolveAssemblyReference.cache
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\bin\Debug\MatrimonialAgency.exe
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\bin\Debug\MatrimonialAgency.pdb
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\bin\Debug\EntityFramework.dll
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\bin\Debug\EntityFramework.xml
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.exe
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.pdb
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.Migrations.Part2.resources
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.csproj.GenerateResource.Cache
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.Migrations.Part3.resources
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.Migrations.Part4.resources
+c:\users\skido_000\documents\visual studio 2015\Projects\MatrimonialAgency\MatrimonialAgency\obj\Debug\MatrimonialAgency.Migrations.Part41.resources
